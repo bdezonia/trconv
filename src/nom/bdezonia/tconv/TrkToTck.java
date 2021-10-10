@@ -30,4 +30,8 @@ package nom.bdezonia.tconv;
  */
 public class TrkToTck {
 
+	public static void convert(String infile, String outfile) {
+		
+		System.out.println("Make TCK: convert "+infile+" to "+outfile);
+	}
 }
