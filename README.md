@@ -1,2 +1,2 @@
-# tconv
+# trconv
 Tractography file converter
