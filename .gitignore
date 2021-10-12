@@ -26,3 +26,8 @@ hs_err_pid*
 # Eclipse files
 .project
 .classpath
+
+junk.sh
+*.trk
+*.tck
+*.vtk
