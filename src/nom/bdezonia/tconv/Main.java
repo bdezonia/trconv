@@ -219,6 +219,8 @@ public class Main {
 			
 			Files.createFile(path);
 			
+			Files.delete(path);
+			
 			return true;
 		}
 		catch (FileAlreadyExistsException e) {
