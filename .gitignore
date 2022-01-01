@@ -28,6 +28,7 @@ hs_err_pid*
 .classpath
 
 junk.sh
+bunk.sh
 *.trk
 *.tck
 *.vtk
