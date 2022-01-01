@@ -120,7 +120,7 @@ public class Main {
 	            	@Override
 	                public boolean accept(File f, String name) {
 
-	            		// We want to find only .c files
+	            		// We want to find only tractography files
 	                    return name.endsWith(".trk") || name.endsWith(".tck"); 
 	                }
 	            };
