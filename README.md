@@ -22,7 +22,7 @@ Example usages
 
       Do a bunch of conversions from tractography files to a TRK files. Read each file from /home/fred/data/inputs
       and convert the tractography files there to TRK files in the /data/outputs directory. Keep the base file
-      name intact (e.g. GOTZ.tck -> GOTS.trk).
+      name intact (e.g. GOTZ.tck -> GOTZ.trk).
   
     java -jar trconv.jar --to-trk input.tck .
   
@@ -44,7 +44,7 @@ Example usages
 
       Do a bunch of conversions from tractography files to a TCK files. Read each file from /home/fred/data/inputs
       and convert the tractography files there to TCK files in the /data/outputs directory. Keep the base file
-      name intact (e.g. GOTZ.trk -> GOTS.tck).
+      name intact (e.g. GOTZ.trk -> GOTZ.tck).
 
     java -jar trconv.jar --to-tck input.trk . 
   
