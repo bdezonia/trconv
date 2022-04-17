@@ -345,7 +345,7 @@ public class TckToTrk {
 		oStr.writeFloat(1);
 		oStr.writeFloat(1);
 		
-		// write the irigin: always 0 in spec
+		// write the origin: always 0 in spec
 		oStr.writeFloat(0);
 		oStr.writeFloat(0);
 		oStr.writeFloat(0);
