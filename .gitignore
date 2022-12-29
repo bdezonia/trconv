@@ -26,6 +26,7 @@ hs_err_pid*
 # Eclipse files
 .project
 .classpath
+.settings
 
 junk.sh
 bunk.sh
